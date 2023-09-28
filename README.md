@@ -10,7 +10,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichelFraga17&bg_color=111&color=f9ca50&line=eee&point=f9ca24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
 <div  align="center"> 
   <h1 align="center">"Imagination is greater than knowledge"!</h1>
   <div style="display: inline_block"><br>
@@ -24,10 +23,7 @@
 
 
   <h1 margin="5rem">Redes Sociais</h1>
-     <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhf7OtEdBKyQM2nksOqZd64UWBJViRSSxt-i9Fg3Bn76-cLfLueeqXHYkJqT5UdNKxB-WU3p1w&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S235378291%3A1695861433632477&theme=glif" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-     <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-     <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-     <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://accounts.google.com/v3/signin/challenge/pwd?TL=AJeL0C4MoIfk55_Ngz4Bt0rYfRD1-N6NvDX-cR1rDfjRLYT9FX9aLvfdgx_1oNFQ&checkConnection&checkedDomains&cid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S235378291%3A1695861433632477&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhf7OtEdBKyQM2nksOqZd64UWBJViRSSxt-i9Fg3Bn76-cLfLueeqXHYkJqT5UdNKxB-WU3p1w&osid=1&pstMsg=0&service=mail&theme=glif" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
     
 ### Main skills:
