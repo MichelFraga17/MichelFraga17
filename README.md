@@ -16,14 +16,23 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">  
   </div>
 
-  <p align="right">
+   <p align="right">
      <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </p>
 
-
-
-  <h1 margin="5rem">Redes Sociais</h1>
-    <a href="https://accounts.google.com/v3/signin/challenge/pwd?TL=AJeL0C4MoIfk55_Ngz4Bt0rYfRD1-N6NvDX-cR1rDfjRLYT9FX9aLvfdgx_1oNFQ&checkConnection&checkedDomains&cid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S235378291%3A1695861433632477&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhf7OtEdBKyQM2nksOqZd64UWBJViRSSxt-i9Fg3Bn76-cLfLueeqXHYkJqT5UdNKxB-WU3p1w&osid=1&pstMsg=0&service=mail&theme=glif" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <h1 align="center">Redes Sociais</h1>
+   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
+      <img width="30" src="gmail.svg">
+    </a>
+   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
+      <img width="25" src="linkedin.svg">
+    </a>
+   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
+      <img width="25" src="instagram.png">
+    </a>
 </div>
     
 ### Main skills:
