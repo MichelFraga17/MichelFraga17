@@ -21,9 +21,9 @@
   </p>
 
   <h1 align="center">Redes Sociais</h1>
-    <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
+    <a href="https://www.linkedin.com/in/michel-fraga-a9932b1a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+    <a href="[https://www.instagram.com/mthalvarez_/](https://www.instagram.com/front_end_developer156/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://www.facebook.com/profile.php?id=100089485056297" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
    
 </div>
