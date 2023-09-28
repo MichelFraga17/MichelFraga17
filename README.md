@@ -10,11 +10,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichelFraga17&bg_color=111&color=f9ca50&line=eee&point=f9ca24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div  align="center"> 
-  <h1 align="center">"Imagination is greater than knowledge"!</h1>
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">  
-  </div>
 
    <p align="right">
      <img src="https://github-profile-trophy.vercel.app/?username=MichelFraga17&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
