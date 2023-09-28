@@ -11,6 +11,12 @@
 
 
 
+<div  align="center"> 
+  <h1 align="center">"Imagination is greater than knowledge"!</h1>
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">  
+  </div>
+  
    <p align="right">
      <img src="https://github-profile-trophy.vercel.app/?username=MichelFraga17&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </p>
@@ -20,9 +26,11 @@
     <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
     <a href="https://www.facebook.com/profile.php?id=100089485056297" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
-   
 </div>
-    
+
+
+
+
 ### Main skills:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -71,6 +79,7 @@
 ![Adobe Xd](https://img.shields.io/badge/-adobexd-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
