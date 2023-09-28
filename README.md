@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f9ca24&height=120&section=header&text=MichelFraga"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f9ca24&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9ca50&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋+I'm+Michel.;I'm+34+years+old!;I'm+from+Brazil,+ES;I+study+analysis+and+systems+development+at+Unopa.;Welcome+to+my+world!)](https://git.io/typing-svg)
 
