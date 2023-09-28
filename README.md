@@ -23,8 +23,8 @@
 
 
 
-  <h1 align="center">Redes Sociais</h1>
-     <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <h1 margin="5rem">Redes Sociais</h1>
+     <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhf7OtEdBKyQM2nksOqZd64UWBJViRSSxt-i9Fg3Bn76-cLfLueeqXHYkJqT5UdNKxB-WU3p1w&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S235378291%3A1695861433632477&theme=glif" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
      <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
      <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
      <a href="https://www.instagram.com/front_end_developer156/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
