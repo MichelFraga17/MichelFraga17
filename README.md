@@ -27,11 +27,14 @@
    <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
-      <img width="35" src="youtube.svg">
-    </a>
     <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
       <img width="25" src="instagram.png">
+    </a> 
+    <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
+      <img width="25" src="facebook.png">
+    </a>     
+   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
+      <img width="35" src="youtube.svg">
     </a>
 </div>
     
