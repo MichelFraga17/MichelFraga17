@@ -21,21 +21,7 @@
   </p>
 
   <h1 align="center">Redes Sociais</h1>
-   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
-      <img width="30" src="gmail.svg">
-    </a>
-   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
-      <img width="25" src="instagram.png">
-    </a> 
-    <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
-      <img width="25" src="facebook.png">
-    </a>     
-   <a href="https://www.instagram.com/mthalvarez_/" target="_blank">
-      <img width="35" src="youtube.svg">
-    </a>
+    <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
     
 ### Main skills:
